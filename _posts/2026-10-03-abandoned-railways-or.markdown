@@ -63,4 +63,4 @@ There are two lines in it so far:
 
 ### Future
 
-I'm hoping to expand the Abandoned Railwyas GTFS Viewer with more railroad data as I come across old valuation plats, timetables, and time to do process it. Perhaps one day there will be a readily available public archive of all the old railway valuation plats for Oregon.
+I'm hoping to expand the Abandoned Railways GTFS Viewer with more railroad data as I come across old valuation plats, timetables, and time to do process it. Perhaps one day there will be a readily available public archive of all the old railway valuation plats for Oregon.
