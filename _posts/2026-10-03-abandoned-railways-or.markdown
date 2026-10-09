@@ -56,10 +56,23 @@ The indexes were compiled from the railroad specific index maps from 1916 that N
   </iframe>
 </div>
 
-There are two lines in it so far:
 
-- **Willamette Valley Southern Railway** (1915–1933), Oregon City to Mt. Angel, using the 1915 timetable from Richard Thompson's book *Willamette Valley Railways* and the PEPCO right-of-way plats I traced for the original map.
-- **Willamette Falls Railway** (1925 timetable), Tualatin River to West Linn to Magones. It ran 62 trips a day from 6:00 am until midnight, and the track was traced from the Southern Pacific right-of-way and track maps for the line.
+There are six lines in it so far:
+
+- **Willamette Valley Southern Railway** (1915–1933), Oregon City to Mt. Angel. It uses the 1915 timetable from Richard Thompson's book *Willamette Valley Railways* and the PEPCO right-of-way plats I traced for the original map.
+- **Willamette Falls Railway** (1925 timetable), Tualatin River to West Linn to Magones. It ran 62 trips a day from 6:00 am until midnight, and I traced the track from the Southern Pacific right-of-way and track maps for the line.
+- **Oregon City Line** (1911 and 1916 timetables), Portland to Milwaukie, Oregon City and Canemah Park. This was Portland Railway, Light & Power's busiest interurban, with trains every half hour or so.
+  - **Golf Junction to Oregon City:** I rebuilt the track from the curve data on the Portland Traction Co. valuation plats, then pinned it to control points on georeferenced plats. It sits within a few feet of the old right-of-way parcels.
+  - **Oregon City to Canemah:** this end comes from a 1920s state highway right-of-way plat, plus a 1910 county survey for the final stretch along Water Street.
+  - **Downtown to Golf Junction:** this comes from the City of Portland's street and Springwater on the Willamette trail data.
+- **Springwater Line** (1916 timetable), Portland through Lents, Gresham, Boring and Estacada to Cazadero, the "Trout Route" up the Clackamas.
+  - **Portland to Boring:** this follows the Springwater Corridor trail, which runs on the old roadbed.
+  - **Boring to Estacada:** this comes from Portland Traction Co. valuation sheets and a 1911 Estacada survey, centred on the old right-of-way parcels.
+  - **Faraday to Cazadero:** this comes from the 1923 Oak Grove hydro project maps.
+- **Mount Hood Line** (1916 timetable), Portland to Gresham and Bull Run. It shares the Springwater Line's track to Linnemann Junction. East of there, the track and stations are from Cameron Booth's 1920 map of the Portland and Willamette Valley interurbans.
+- **Troutdale Line** (1916 timetable), from Montavilla and Linnemann Junction through Ruby Junction to Fairview and Troutdale. Its track and stations are also from Cameron Booth's map.
+
+The PRL&P lines' stations, flag stops and mileposts come from the company's January 1917 list of stations and table of distances. The 1916 times come from "The Trout Route" public timetable in the Sheldon Perry collection, and the 1911 Oregon City schedule from the *Morning Enterprise*. Most stations between the printed timepoints are estimated by distance.
 
 ### Future
 
